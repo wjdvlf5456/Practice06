@@ -1,4 +1,4 @@
-/*package com.javaex.ex05;
+package com.javaex.ex05;
 
 public class EmployeeApp {
 
@@ -11,4 +11,3 @@ public class EmployeeApp {
 }
 
 
-*/
