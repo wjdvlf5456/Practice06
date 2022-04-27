@@ -17,7 +17,9 @@ public class ShapeApp {
 		
 		Triangle t2 = new Triangle(3, 4);
 		System.out.println("================");
-		//t2는 Shape(2)를 거친 후 Triangle(4)를 거칠 것이다.		//
+		//t2는 Shape(2)를 거친 후 Triangle(4)를 거칠 것이다.
+		
+		//t2는 Shape(2)를 거친 후 Triangle(2)를 지나왔다.		
 		
 		
 		Shape t3 = new Triangle("빨강", "빨강", 15, 15);
