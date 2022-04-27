@@ -1,4 +1,4 @@
-/*package com.javaex.ex03;
+package com.javaex.ex03;
 
 public class ShapeApp {
 
@@ -14,4 +14,3 @@ public class ShapeApp {
 }
 
 
-*/
