@@ -4,7 +4,7 @@ public class PhoneApp {
 
     public static void main(String[] args) {
 
-        Phone phone = new SmartPhone();
+        Phone phone = new SmartPhone();		//SmartPhone으로 먼저 보내진다.
         phone.execute("앱");
         phone.execute("음악");
         phone.execute("통화");
