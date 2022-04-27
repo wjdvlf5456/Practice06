@@ -3,10 +3,15 @@ package com.javaex.ex03;
 public class Shape {
 
 	// 필드
-	private String fillColor;
-	private String lineColor;
+	protected String fillColor;		//private 말고 protected를 사용해준다.
+	protected String lineColor;
 
 	// 생성자
+	// 기본생성자를 만들어준다.
+	public Shape () {
+		
+	}
+	
 	public Shape(String fillColor, String lineColor) {
 		this.fillColor = fillColor;
 		this.lineColor = lineColor;

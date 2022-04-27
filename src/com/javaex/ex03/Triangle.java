@@ -1,4 +1,4 @@
-/*package com.javaex.ex03;
+package com.javaex.ex03;
 
 public class Triangle extends Shape{
 	
@@ -23,4 +23,3 @@ public class Triangle extends Shape{
 
 
 
-*/
